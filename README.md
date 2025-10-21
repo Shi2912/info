@@ -211,7 +211,7 @@ Create Pull Request
 This project is licensed under the MIT License.
 
 👥 Development Team
-Your Name - Full Stack Developer
+SHIVANNE K - Full Stack Developer
 
 🏆 Achievements
 ✅ Complete user authentication system
